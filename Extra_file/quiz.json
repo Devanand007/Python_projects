@@ -1,0 +1,27 @@
+[
+  {
+    "Question_text": "What is the capital of France?",
+    "alternatives": ["Berlin", "Madrid", "Paris", "Rome"],
+    "Correct_answer": 3
+  },
+  {
+    "Question_text": "Who wrote 'To Kill a Mockingbird'?",
+    "alternatives": ["Harper Lee", "J.K. Rowling", "Stephen King", "Ernest Hemingway"],
+    "Correct_answer": 1
+  },
+  {
+    "Question_text": "What is the chemical symbol for gold?",
+    "alternatives": ["Au", "Ag", "Fe", "Cu"],
+    "Correct_answer": 1
+  },
+  {
+    "Question_text": "Which planet is known as the 'Red Planet'?",
+    "alternatives": ["Mars", "Jupiter", "Saturn", "Venus"],
+    "Correct_answer": 1
+  },
+  {
+    "Question_text": "What year did the Titanic sink?",
+    "alternatives": ["1912", "1908", "1921", "1899"],
+    "Correct_answer": 1
+  }
+]
