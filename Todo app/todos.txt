@@ -1,8 +1,2 @@
-edited
-add a new member
-buy camera
-new player
+play video game
 make pizza
-newline
-master python
-added add button
