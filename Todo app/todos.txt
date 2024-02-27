@@ -1,7 +1,7 @@
-games
 computer
-edited the command
+edited
  add a new member
 buy camera
 new player
 make pizza
+newline
