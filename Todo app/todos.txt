@@ -1,6 +1,8 @@
 edited
- add a new member
+add a new member
 buy camera
 new player
 make pizza
 newline
+master python
+added add button
