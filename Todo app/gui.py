@@ -1,6 +1,11 @@
 import read_and_write as rw
 import PySimpleGUI as Sg
 import time
+import os
+
+if not os.path.exists("todos.txt"):
+    with open("todos.txt","w") as file:
+        pass
 
 Sg.theme("Black")
 
@@ -11,7 +16,7 @@ add_button = Sg.Button("Add", size=10)
 list_box = Sg.Listbox(values=rw.get_todos(), key='todos',
                       enable_events=True, size=[45, 10])
 edit_button = Sg.Button("Edit")
-complete_button = Sg.Button("Complete")
+complete_button = Sg.Button("Complete", size=10)
 exit_button = Sg.Button("Exit")
 
 window = Sg.Window("My To-Do App",
