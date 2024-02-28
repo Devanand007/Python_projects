@@ -4,7 +4,7 @@ import time
 
 Sg.theme("Black")
 
-clock = Sg.Text('',key='Clock')
+clock = Sg.Text('', key='Clock')
 label = Sg.Text("Type in a to-do")
 input_box = Sg.InputText(tooltip="Enter todo", key="todo")
 add_button = Sg.Button("Add", size=10)
