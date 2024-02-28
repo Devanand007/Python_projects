@@ -40,5 +40,4 @@ while True:
 
         case Sg.WIN_CLOSED:
             break
-
 window.close()
